@@ -10,3 +10,6 @@ Realizacja serwera obsługującego klientów szukających cen produktów w róż
 
 # Układanie instalacji:
 Projekt z Badań Operacyjnych zawierający realizację poszukiwania rozwiązania problemu optymalnego ułożenia instalacji wodociągowej za pomocą algorytmów genetycznego i symulowanego wyżarzania. Projekt realizowany w grupie trzyososbowej, napisany w języku Python.
+
+# Algorytmy:
+Realizacja różnych algorytmów w Pythonie.
